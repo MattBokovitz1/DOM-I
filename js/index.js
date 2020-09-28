@@ -57,6 +57,7 @@ navitem4.textContent = 'Features'
 navitem5.textContent = 'About'
 navitem6.textContent = 'Contact'
 
+
 const h1 = document.querySelector('h1')
 h1.textContent = 'DOM IS AWESOME'
 
@@ -105,7 +106,7 @@ phoneParagraph.textContent = '1 (888) 888-8888'
 emailParagraph.textContent = 'sales@greatidea.io'
 copyrightParagraph.textContent = 'Copyright Great Idea! 2018'
 
-
+nav.style.color = 'green'
 
 
 
